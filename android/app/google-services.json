@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873456082973",
+    "project_id": "can-tech-147f5",
+    "storage_bucket": "can-tech-147f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873456082973:android:e4a1019e2d12c2d413a6f4",
+        "android_client_info": {
+          "package_name": "com.cantech.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQ1ATo1TwU38BISreQYVlBnwAl1Q3F_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
